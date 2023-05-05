@@ -19,7 +19,7 @@ const bot = new aoi.AoiClient({
 })
 
 bot.status({
-text: "JaMusic",
+text: "Your Text Here",
 type: "WATCHING",
 status: "IDLE",
 time: 2
